@@ -1,7 +1,7 @@
 
 # Drum Kit
 
-A fun and interactive drum kit application built using **JavaScript**, **CSS**, and **HTML** as part of **Dr. Angela Yu's web development course** on Udemy.  .
+A fun and interactive drum kit application built using **JavaScript**, **CSS**, and **HTML** as part of **Dr. Angela Yu's web development course** on Udemy. 
 
 ## Features
 
